@@ -9,9 +9,9 @@ A MySQL project analyzing airline customer, ticket, and route data for Air Cargo
 - Improve query performance
 
 ## Files in This Repository
-- AirCargo.sql — All SQL queries written for the assignment
-- Report.pdf — Project summary and conclusions
-- /screenshots — ER diagram, query outputs, analysis visuals
+- AirCargo.sql - All SQL queries written for the assignment
+- Report.pdf - Project summary and conclusions
+- /screenshots - ER diagram, query outputs, analysis visuals
 
 ## SQL Concepts Demonstrated
 - Joins, subqueries and aggregations
